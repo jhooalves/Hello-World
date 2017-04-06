@@ -1,3 +1,10 @@
 .menu-nav {
+  position: fixed;
+  color: #fff;
+  background-color: black;
+  padding: 0 70px;
+}
 
+li {
+  display: inline;
 }
